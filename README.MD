@@ -41,7 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de Indicadores de sucesso para pequenas empresas., o ebook é do nicho de negócios e o subnicho é de KPIs para pequenas empresas, o título deve ser direto e curto, me liste 5 variações de títulos                                                      |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Faça um texto para ebook , com foco em KPIs, introduzindo o tema para pequenos empreendedores e listando os principais KPIs que podem impulsionar a performance de pequenas empresas. {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de KPIs em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
 Midjourney：
